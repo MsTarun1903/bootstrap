@@ -1,1 +1,1 @@
-TinDog Starting Files
+Experience the paw-fect match with TinDog, the ultimate dating app for dogs! Built with HTML, CSS, and Bootstrap, our responsive platform offers a seamless and enjoyable user experience. Find your furry soulmate today!
